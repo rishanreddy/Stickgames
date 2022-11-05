@@ -1,1 +1,1 @@
-[Current URL](stickgames.netlify.app)
+<a href="placeholder.com" target="_blank">Opens in new tab</a>
