@@ -1,1 +1,1 @@
-friendly-chebakia-682457.netlify.app
+quiet-malasada-a6327e.netlify.app
