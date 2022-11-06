@@ -1,1 +1,1 @@
-chic-hamster-0908cf.netlify.app
+friendly-chebakia-682457.netlify.app
