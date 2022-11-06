@@ -1,1 +1,1 @@
-astounding-syrniki-24ebe0.netlify.app
+preeminent-semifreddo-ceef3e.netlify.app
