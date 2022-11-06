@@ -1,1 +1,1 @@
-bright-narwhal-50ec08.netlify.app
+splendid-griffin-b9fa00.netlify.app
