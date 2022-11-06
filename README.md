@@ -1,1 +1,1 @@
-resplendent-tiramisu-0c117f.netlify.app
+fancy-bavarois-fdb0bf.netlify.app
