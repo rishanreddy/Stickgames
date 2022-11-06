@@ -1,1 +1,1 @@
-genuine-horse-4b2fea.netlify.app
+astounding-syrniki-24ebe0.netlify.app
