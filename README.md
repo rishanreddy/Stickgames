@@ -1,1 +1,1 @@
-fluffy-pavlova-e2b984.netlify.app
+bright-narwhal-50ec08.netlify.app
