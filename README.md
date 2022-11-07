@@ -1,1 +1,1 @@
-quiet-malasada-a6327e.netlify.app
+bright-fox-a54b3e.netlify.app/
