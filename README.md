@@ -1,8 +1,8 @@
-Current Stickgames URL: https://comfy-raindrop-4a587e.netlify.app/
+Current Stickgames URL: https://clinquant-syrniki-e2eecf.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://comfy-raindrop-4a587e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://clinquant-syrniki-e2eecf.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
