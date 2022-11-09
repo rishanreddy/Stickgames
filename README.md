@@ -1,8 +1,8 @@
-Current Stickgames URL: https://glittering-sfogliatella-7bae83.netlify.app/
+Current Stickgames URL: https://zesty-cannoli-985734.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://glittering-sfogliatella-7bae83.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://zesty-cannoli-985734.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
