@@ -1,8 +1,8 @@
-Current Stickgames URL: https://quiet-maamoul-6c1ed8.netlify.app/
+Current Stickgames URL: https://elaborate-macaron-59ccc3.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://quiet-maamoul-6c1ed8.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://elaborate-macaron-59ccc3.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
