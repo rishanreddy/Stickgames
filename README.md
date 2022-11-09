@@ -1,8 +1,8 @@
-Current Stickgames URL: https://majestic-biscuit-353575.netlify.app/
+Current Stickgames URL: https://creative-taiyaki-6c6584.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://majestic-biscuit-353575.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://creative-taiyaki-6c6584.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
