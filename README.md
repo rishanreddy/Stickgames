@@ -1,8 +1,8 @@
-Current Stickgames URL: https://unique-fenglisu-21b436.netlify.app/
+Current Stickgames URL: https://bright-fox-a54b3e.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://unique-fenglisu-21b436.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://bright-fox-a54b3e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
