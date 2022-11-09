@@ -1,8 +1,8 @@
-Current Stickgames URL: https://clinquant-syrniki-e2eecf.netlify.app/
+Current Stickgames URL: https://thriving-phoenix-d7bae5.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://clinquant-syrniki-e2eecf.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://thriving-phoenix-d7bae5.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
