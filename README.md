@@ -1,8 +1,8 @@
-Current Stickgames URL: https://bright-fox-a54b3e.netlify.app/
+Current Stickgames URL: https://dainty-mooncake-3c4db8.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://bright-fox-a54b3e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://dainty-mooncake-3c4db8.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
