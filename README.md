@@ -1,8 +1,8 @@
-Current Stickgames URL: https://elaborate-macaron-59ccc3.netlify.app/
+Current Stickgames URL: https://cerulean-mooncake-4eb35b.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://elaborate-macaron-59ccc3.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://cerulean-mooncake-4eb35b.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
