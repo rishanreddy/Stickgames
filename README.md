@@ -1,8 +1,8 @@
-Current Stickgames URL: https://radiant-granita-7fb23e.netlify.app/
+Current Stickgames URL: https://starlit-begonia-c23025.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://radiant-granita-7fb23e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://starlit-begonia-c23025.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
