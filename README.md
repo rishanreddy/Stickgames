@@ -1,8 +1,8 @@
-Current Stickgames URL: https://thriving-phoenix-d7bae5.netlify.app/
+Current Stickgames URL: https://cosmic-muffin-7ef49b.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://thriving-phoenix-d7bae5.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://cosmic-muffin-7ef49b.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
