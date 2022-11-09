@@ -1,8 +1,8 @@
-Current Stickgames URL: https://peaceful-cajeta-119828.netlify.app/
+Current Stickgames URL: https://majestic-biscuit-353575.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://peaceful-cajeta-119828.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://majestic-biscuit-353575.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
