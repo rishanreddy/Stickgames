@@ -1,8 +1,8 @@
-Current Stickgames URL: https://incomparable-conkies-d53f16.netlify.app/
+Current Stickgames URL: https://radiant-granita-7fb23e.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://incomparable-conkies-d53f16.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://radiant-granita-7fb23e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
