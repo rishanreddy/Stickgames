@@ -2,9 +2,9 @@ Current Stickgames URL: https://stickgames2.netlify.app/
 
 <h1 align="center">
 
-    <a href="https://stickgames2.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://stickgames2.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 
-    Stickgames
+Â  Stickgames
 
 </h1>
 
