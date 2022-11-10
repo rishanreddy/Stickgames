@@ -1,8 +1,8 @@
-Current Stickgames URL: https://bright-fox-a54b3e.netlify.app/
+Current Stickgames URL: https://iridescent-taiyaki-1f1d6d.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://bright-fox-a54b3e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://iridescent-taiyaki-1f1d6d.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
