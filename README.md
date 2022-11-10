@@ -1,8 +1,8 @@
-Current Stickgames URL: https://cerulean-duckanoo-a7ab0e.netlify.app/
+Current Stickgames URL: https://heroic-klepon-272717.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://cerulean-duckanoo-a7ab0e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://heroic-klepon-272717.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
