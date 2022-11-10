@@ -1,17 +1,17 @@
-Current Stickgames URL: https://heroic-klepon-272717.netlify.app/
+Current Stickgames URL: https://lighthearted-malabi-678bf8.netlify.app/
 
 <h1 align="center">
-Â  <br>
-Â  <a href="https://heroic-klepon-272717.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
-Â  <br>
-Â  Stickgames
-Â  <br>
+  <br>
+  <a href="https://lighthearted-malabi-678bf8.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <br>
+  Stickgames
+  <br>
 </h1>
 
 <h4 align="center">A minimal, clean looking Games Unblocker that has many fun games and a unblocker to unblock any website.</h4>
 
 <p align="center">
-Â  â€¢ <a href="#key-features">Key Features</a>
+  • <a href="#key-features">Key Features</a>
 </p>
 
 <img src="Capture.PNG" alt="Stickgames" width="1000">
