@@ -1,8 +1,8 @@
-Current Stickgames URL: https://lighthearted-malabi-678bf8.netlify.app/
+Current Stickgames URL: https://astonishing-snickerdoodle-7ca93f.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://lighthearted-malabi-678bf8.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://astonishing-snickerdoodle-7ca93f.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
