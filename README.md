@@ -1,8 +1,8 @@
-Current Stickgames URL: https://visionary-pothos-da6c1f.netlify.app/
+Current Stickgames URL: https://cerulean-duckanoo-a7ab0e.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://visionary-pothos-da6c1f.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://cerulean-duckanoo-a7ab0e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
