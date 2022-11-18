@@ -1,8 +1,8 @@
-Current Stickgames URL: https://gilded-cobbler-85eb48.netlify.app/
+Current Stickgames URL: https://tranquil-halva-25a628.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://gilded-cobbler-85eb48.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://tranquil-halva-25a628.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
