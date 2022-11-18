@@ -1,8 +1,8 @@
-Current Stickgames URL: https://storied-centaur-fdfd4a.netlify.app/
+Current Stickgames URL: https://sparkling-banoffee-139c0c.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://storied-centaur-fdfd4a.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://sparkling-banoffee-139c0c.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
