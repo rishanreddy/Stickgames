@@ -1,8 +1,8 @@
-Current Stickgames URL: https://magnificent-mooncake-1cc662.netlify.app/
+Current Stickgames URL: https://wonderful-trifle-c7ab63.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://magnificent-mooncake-1cc662.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://wonderful-trifle-c7ab63.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
