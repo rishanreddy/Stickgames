@@ -1,8 +1,8 @@
-Current Stickgames URL: https://wonderful-trifle-c7ab63.netlify.app/
+Current Stickgames URL: https://strong-unicorn-0a6751.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://wonderful-trifle-c7ab63.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://strong-unicorn-0a6751.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
