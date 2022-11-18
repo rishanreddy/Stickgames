@@ -1,8 +1,8 @@
-Current Stickgames URL: https://sparkling-banoffee-139c0c.netlify.app/
+Current Stickgames URL: https://gilded-cobbler-85eb48.netlify.app/
 
 <h1 align="center">
 Â  <br>
-Â  <a href="https://sparkling-banoffee-139c0c.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <a href="https://gilded-cobbler-85eb48.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
 Â  <br>
 Â  Stickgames
 Â  <br>
