@@ -1,17 +1,17 @@
-Current Stickgames URL: https://genuine-haupia-206207.netlify.app/
+Current Stickgames URL: https://fantastic-yeot-fbd689.netlify.app/
 
 <h1 align="center">
-  <br>
-  <a href="https://genuine-haupia-206207.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
-  <br>
-  Stickgames
-  <br>
+Â  <br>
+Â  <a href="https://fantastic-yeot-fbd689.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+Â  <br>
+Â  Stickgames
+Â  <br>
 </h1>
 
 <h4 align="center">A minimal, clean looking Games Unblocker that has many fun games and a unblocker to unblock any website.</h4>
 
 <p align="center">
-  • <a href="#key-features">Key Features</a>
+Â  â€¢ <a href="#key-features">Key Features</a>
 </p>
 
 <img src="Capture.PNG" alt="Stickgames" width="1000">
