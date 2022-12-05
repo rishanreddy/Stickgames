@@ -1,8 +1,8 @@
-Current Stickgames URL: https://clever-panda-bf54b2.netlify.app/
+Current Stickgames URL: https://peppy-cupcake-237f99.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://clever-panda-bf54b2.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://peppy-cupcake-237f99.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
