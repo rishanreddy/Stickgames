@@ -1,8 +1,8 @@
-Current Stickgames URL: https://peppy-cupcake-237f99.netlify.app/
+Current Stickgames URL: https://stellar-nasturtium-6db903.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://peppy-cupcake-237f99.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://stellar-nasturtium-6db903.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
