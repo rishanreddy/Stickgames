@@ -1,8 +1,8 @@
-Current Stickgames URL: https://stellar-nasturtium-6db903.netlify.app/
+Current Stickgames URL: https://effortless-pudding-6a8d20.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://stellar-nasturtium-6db903.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://effortless-pudding-6a8d20.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
