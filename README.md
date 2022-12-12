@@ -1,8 +1,9 @@
-Current Stickgames URL: https://effortless-pudding-6a8d20.netlify.app/
+
+Current Stickgames URL: https://cute-cuchufli-c1cbde.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://effortless-pudding-6a8d20.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://cute-cuchufli-c1cbde.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
@@ -18,9 +19,10 @@ Current Stickgames URL: https://effortless-pudding-6a8d20.netlify.app/
 
 ## Key Features
 
-* Unblocker - Unblocks any website of your choice.
-* Built in Games - Many fun and entertaining games ready for you to play.
-* Never gets Blocked - Stickgames uses a sophisticated backend to ensure that the website is running 24/7.
+- Unblocker - Unblocks any website of your choice.
+- Built in Games - Many fun and entertaining games ready for you to play.
+- Never gets Blocked - Stickgames uses a sophisticated backend to ensure that the website is running 24/7.
+- Completed your HW as well using AI:)
 
 ## Support
 
