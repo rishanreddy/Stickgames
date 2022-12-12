@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://cute-cuchufli-c1cbde.netlify.app/
+Current Stickgames URL: https://amazing-kelpie-25061b.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://cute-cuchufli-c1cbde.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://amazing-kelpie-25061b.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
