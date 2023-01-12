@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://hilarious-ganache-d02d3a.netlify.app/
+Current Stickgames URL: https://incredible-pika-876c5c.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://hilarious-ganache-d02d3a.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://incredible-pika-876c5c.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
@@ -22,7 +22,7 @@ Current Stickgames URL: https://hilarious-ganache-d02d3a.netlify.app/
 - Unblocker - Unblocks any website of your choice.
 - Built in Games - Many fun and entertaining games ready for you to play.
 - Never gets Blocked - Stickgames uses a sophisticated backend to ensure that the website is running 24/7.
-- Completed your HW as well using AI:)
+- AI HW Assistant - Completes your HW using AI to intelligently answer questions :)
 
 ## Support
 
