@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://amazing-kelpie-25061b.netlify.app/
+Current Stickgames URL: https://helpful-nasturtium-c49e7e.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://amazing-kelpie-25061b.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://helpful-nasturtium-c49e7e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
