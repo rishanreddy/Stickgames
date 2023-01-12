@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://helpful-nasturtium-c49e7e.netlify.app/
+Current Stickgames URL: https://hilarious-ganache-d02d3a.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://helpful-nasturtium-c49e7e.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://hilarious-ganache-d02d3a.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
