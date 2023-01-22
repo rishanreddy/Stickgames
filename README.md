@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://astounding-chimera-2a30ba.netlify.app/
+Current Stickgames URL: https://fabulous-nougat-620901.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://astounding-chimera-2a30ba.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://fabulous-nougat-620901.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
