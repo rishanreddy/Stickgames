@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://incredible-pika-876c5c.netlify.app/
+Current Stickgames URL: https://astounding-chimera-2a30ba.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://incredible-pika-876c5c.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://astounding-chimera-2a30ba.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
