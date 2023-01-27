@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://glittering-cupcake-424abe.netlify.app/
+Current Stickgames URL: https://idyllic-cactus-962f51.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://glittering-cupcake-424abe.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://idyllic-cactus-962f51.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
