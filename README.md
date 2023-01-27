@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://fabulous-nougat-620901.netlify.app/
+Current Stickgames URL: https://glittering-cupcake-424abe.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://fabulous-nougat-620901.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://glittering-cupcake-424abe.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
