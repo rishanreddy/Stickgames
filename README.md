@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://symphonious-lily-6b8548.netlify.app/
+Current Stickgames URL: https://zippy-creponne-f0fc9d.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://symphonious-lily-6b8548.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://zippy-creponne-f0fc9d.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
