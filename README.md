@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://idyllic-cactus-962f51.netlify.app/
+Current Stickgames URL: https://willowy-mousse-11b138.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://idyllic-cactus-962f51.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://willowy-mousse-11b138.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
