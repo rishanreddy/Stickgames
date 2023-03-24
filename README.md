@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://ornate-panda-73c925.netlify.app/
+Current Stickgames URL: https://verdant-seahorse-0bcafc.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://ornate-panda-73c925.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://verdant-seahorse-0bcafc.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
