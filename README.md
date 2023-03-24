@@ -1,9 +1,9 @@
 
-Current Stickgames URL: https://zippy-creponne-f0fc9d.netlify.app/
+Current Stickgames URL: https://ornate-panda-73c925.netlify.app/
 
 <h1 align="center">
   <br>
-  <a href="https://zippy-creponne-f0fc9d.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
+  <a href="https://ornate-panda-73c925.netlify.app"><img src="logo.png" alt="Stickgames" width="200"></a>
   <br>
   Stickgames
   <br>
